@@ -48,10 +48,10 @@ public class MainActivity extends AppCompatActivity {
                 if(!input.isEmpty()){
   try {
       double num = Double.parseDouble(input);
-      double farenheit = (num* 9/5) + 32;
+      double fahrenheit = (num* 9/5) + 32;
       double celsius = (num - 32) * 5/9;
 
-      result.setText(String.format("Farenheit is : %.2f °F",farenheit));
+      result.setText(String.format("Fahrenheit is : %.2f °F",fahrenheit));
 
       result2.setText(String.format("Celsius is : %.2f °C",celsius));
   }
