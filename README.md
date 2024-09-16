@@ -1,8 +1,3 @@
 # Temperature Converter
 
-Welcome to my simple project!
-
-## Example
-
-
-![example](https://github.com/user-attachments/assets/3ec85de9-7a0d-47f0-8469-dcf735ce08b2)
+![example](https://github.com/user-attachments/assets/c541e59d-3fd5-44a7-94f0-d603611597fa)
